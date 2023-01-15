@@ -1,1 +1,5 @@
+PBL provide trade flows for EU regions in 2013 disaggreagted by sectors of activity. 
 
+This dataset only considers the sector of origin and not the sector of destination: It is not the full Input-Output matrix but an aggregated version.
+
+Trade happens within and between sectors, but in the paper we only analyze the sector of origin (exporter) and not the destination sector of the importer.
