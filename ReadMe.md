@@ -13,7 +13,7 @@ To replicate the MRIO dataset, follow the instructions below:
 - Download the Regional road freight flow data to the Trucktraffic folder
 
 ### Run the model
-- Run the "Code.py" in the terminal 
+- Run the "Code availability.py" in the terminal 
 
 ### Technical Validation
 - Run the "Technical_Validation_by_sector.py"
