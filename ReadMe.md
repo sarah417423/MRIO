@@ -10,7 +10,8 @@ To replicate the MRIO dataset, follow the instructions below:
 - Download and unpack the code with the folder structure. 
 - Download Inter-Country-Input-Output tables from http://oe.cd/icio. to the "ICIO" folder
 - Download the following regional account datasets to the Regional account folder
-- Download the Regional road freight flow data to the Trucktraffic folder
+- Download the Regional road freight flow data from Markup :  [Named Link](https://data.mendeley.com/datasets/py2zkrb65h "Named link title") and http://www.google.fr/ or <http://example.com/>
+ to the Trucktraffic folder
 
 ### Run the model
 - Run the "Code availability.py" in the terminal 
