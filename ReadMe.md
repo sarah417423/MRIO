@@ -20,5 +20,5 @@ Please read "requirement.txt" to get the version of python and package used in c
 - The "Austria", "Finland" and "Scorland" folder contain the survey data or estimation on input-output tables from local government. We consider them as a ground truth for technical validation.
 - Run "Technical_Validation_by_sector.py".
 - Run "Technical_Validation_by_country.py".
-- Results "SRIO_compare" is generated under "Technical validation" folder.
+- Results are generated under "Technical validation" folder.
 
