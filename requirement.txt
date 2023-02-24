@@ -1,0 +1,6 @@
+#requirement.txt
+python==3.9.6
+pandas==1.5.3
+numpy==1.24.1
+matplotlib==3.3.0
+ipfn==1.4.4
