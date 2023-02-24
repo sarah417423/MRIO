@@ -1,8 +1,8 @@
 ## Prerequisites
-None
+Please read "requirement.txt" to get the version of python and package used in codes.
 
 ### Input dataset prepara        
-- Download and unpack the code with the folder structure. 
+- Download and unpack the codes with the folder structure. 
 - Download Inter-Country-Input-Output tables from http://oe.cd/icio to the "ICIO" folder.
 - Download the following regional account datasets to the "Regional account" folder
   - Sub "nama_10r_3gva_tabular.tsv" from [Gross value added at basic prices by NUTS 3 regions](https://ec.europa.eu/eurostat/databrowser/view/nama_10r_3gva/default/table?lang=en)
