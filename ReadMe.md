@@ -1,5 +1,5 @@
 ## Prerequisites
-Please read "requirement.txt" to get the version of python and package used in codes.
+Before running the software, please install the depencies via pip freeze > requirements.txt
 
 ### Prepare input dataset      
 - Download and unpack the codes with the folder structure. 
@@ -13,8 +13,8 @@ Please read "requirement.txt" to get the version of python and package used in c
 
 ### Run the model
 - Run "Code availability.py".
-  - Sub The results are generated under "MRIO" folder
-  - Sub "NIO" and "SRIO" are by-products during the estimating process. 
+  - The results are generated under "MRIO" folder.
+  - "NIO" ,"SRIO" and "Prior" are by-products during the estimating process. 
 
 ### Technical Validation
 - The "Austria", "Finland" and "Scorland" folder contain the survey data or estimation on input-output tables from local government. We consider them as a ground truth for technical validation.
