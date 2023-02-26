@@ -13,13 +13,13 @@ Before running the software, please install the depencies via pip freeze > requi
 
 ### Run the model
 - Run "Code availability.py".
-  - The results are generated under "MRIO" folder.
-  - "NIO" ,"SRIO" and "Prior" are by-products during the estimating process. 
+  - The results should be generated under the "MRIO" folder.
+  - "NIO" ,"SRIO" and "Prior" folders are by-products during the estimating process. 
 
 ### Technical Validation
-- The "Austria", "Finland" and "Scorland" folder contain the survey data or estimation on input-output tables from local government. We consider them as a ground truth for technical validation.
+- The folders "Austria", "Finland" and "Scorland" contain the survey data or estimation on input-output tables from local government. We consider them as a ground truth for the technical validation section.
 - File "SRIO_compare.xlsx" is used to match the sectors of MRIO and the ground truth.
 - Run "Technical_Validation_by_sector.py".
 - Run "Technical_Validation_by_country.py".
-- Results are generated under "Technical validation" folder.
+- The results should be generated under "Technical validation" folder.
 
